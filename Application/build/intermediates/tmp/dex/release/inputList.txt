@@ -1,0 +1,7 @@
+D:\Source\RecyclerView\Application\build\intermediates\classes\release
+D:\Source\RecyclerView\Application\build\intermediates\pre-dexed\release\support-annotations-21.0.2-9559c7e22c25bf722b8c5055608cdd14b2737113.jar
+D:\Source\RecyclerView\Application\build\intermediates\pre-dexed\release\classes-af3356a978f126e92717ce561bf3840354a9c58d.jar
+D:\Source\RecyclerView\Application\build\intermediates\pre-dexed\release\classes-51735499191b7fa2c5d46bec3b63924f61554682.jar
+D:\Source\RecyclerView\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.2-0b6705d1e7c587d90894dcb25d3981bc48e778e6.jar
+D:\Source\RecyclerView\Application\build\intermediates\pre-dexed\release\classes-a439cafbe3582b9d8d57504f05258eac68125b53.jar
+D:\Source\RecyclerView\Application\build\intermediates\pre-dexed\release\classes-969ec77270b44637cbd8098dad98fcc1c465dbe3.jar
